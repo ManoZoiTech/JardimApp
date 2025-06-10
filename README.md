@@ -1,4 +1,5 @@
-# <p align="center"> img src="imagens/logo.png" alt="Logo Python Dark" width="200px"></p>
+# <p align="center"> <img src="imagens/logo.png" alt="Logo Python Dark" width="200px">
+</p>
 
 JARDIM APP - O APP DO JARDINEIRO
 
