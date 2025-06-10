@@ -1,4 +1,4 @@
-<img src="imagens/HTML.svg" alt="Logo Python Dark" width="25px"> <img src="imagens/sqlite.svg" alt="Logo Python Dark" width="25px"> <img src="imagens/Django.svg" alt="Logo Python Dark" width="25px"> <img src="imagens/python.svg" alt="Logo Python Dark" width="25px"> <img src="imagens/CSS.svg" alt="Logo Python Dark" width="25px"> <img src="imagens/javascript.svg" alt="Logo Python Dark" width="25px">
+<img src="imagens/HTML.svg" alt="Logo Python Dark" width="25px">   <img src="imagens/sqlite.svg" alt="Logo Python Dark" width="25px">     <img src="imagens/Django.svg" alt="Logo Python Dark" width="25px">     <img src="imagens/python.svg" alt="Logo Python Dark" width="25px">     <img src="imagens/CSS.svg" alt="Logo Python Dark" width="25px">     <img src="imagens/javascript.svg" alt="Logo Python Dark" width="25px">
 
 
 
